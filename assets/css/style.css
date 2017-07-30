@@ -1,0 +1,31 @@
+img {
+	height: 200px;
+	/*width: 200px;*/
+}
+
+nav {
+	background-color: #fff;
+	-webkit-box-shadow: none;
+}
+
+nav ul a {
+	color: #ee6e73;
+}
+
+h3 {
+	line-height: 50%;
+	font-weight: 300;
+}
+
+.btn {
+	background-color: white;
+	color: pink;
+}
+
+.btn:hover {
+	background-color: white;
+}
+
+input {
+	background-color: grey;
+}
