@@ -16,12 +16,19 @@ h3 {
 /* INTRO */
 img {
 	height: 200px;
-	/*width: 200px;*/
+	width: 300px;
+}
+
+/* APPROACH*/
+#approach-content {
+	text-align: justify;
 }
 
 /* ABOUT */
 #my-photo {
 	border-radius: 50%;
+	height: 200px;
+	width: 200px;
 }
 
 #about-content {
@@ -57,6 +64,10 @@ img {
 
 input {
 	background-color: grey;
+}
+
+#row {
+	float: left;
 }
 
 .contact-icons {
