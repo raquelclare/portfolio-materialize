@@ -14,9 +14,8 @@ h3 {
 }
 
 /* INTRO */
-img {
+#intro img {
 	height: 200px;
-	width: 300px;
 }
 
 /* APPROACH*/
@@ -38,6 +37,8 @@ img {
 /* PROJECTS */
 #projects img {
 	opacity: 0.5;
+	height: 200px;
+	width: 300px;
 }
 
 #projects img:hover {
@@ -66,9 +67,9 @@ input {
 	background-color: grey;
 }
 
-#row {
+/*#row {
 	float: left;
-}
+}*/
 
 .contact-icons {
 	width: 62px;
