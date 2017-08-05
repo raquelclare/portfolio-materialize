@@ -19,6 +19,16 @@ h3 {
 }
 
 /* APPROACH*/
+/*#approach {
+	background-image: url("../images/beach.PNG");
+	background-size: cover;
+	background-attachment: scroll;
+}*/
+
+/*.parallax-container {
+      height: "your height here";
+}*/
+
 #approach-content {
 	text-align: justify;
 }
@@ -36,14 +46,14 @@ h3 {
 
 /* PROJECTS */
 #projects img {
-	opacity: 0.5;
+	/*opacity: 0.5;*/
 	height: 200px;
 	width: 300px;
 }
 
-#projects img:hover {
+/*#projects img:hover {
 	opacity: 1;
-}
+}*/
 
 .card {
 	color: grey;
