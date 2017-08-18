@@ -1,1 +1,3 @@
-# portfolio-materialize
+# My Portfolio Site!
+### Still perfecting...
+Check out my site [raquelclare.com](https://raquelclare.herokuapp.com/)
